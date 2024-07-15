@@ -50,6 +50,17 @@
         #menu {
             font-size: larger;
         }
+
+        .link-light {
+            color: #f8f9fa; /* Couleur du texte des liens */
+            text-decoration: none; /* Pas de soulignement par défaut */
+        }
+        
+        .link-light:hover {
+            text-decoration: underline; /* Ajoute le soulignement au survol */
+        }
+
+
     </style>
     
 
@@ -114,10 +125,9 @@
                             <h2 class="display-6">
                                 Plan:
                             </h2>
-                            <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start p-4"
-                                id="menu">
+                            <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start p-4" id="menu">
                                 <li class="nav-item p-2 mt-2">
-                                    <a href="#presentation" class="link-light link-underline-light">Présentation</a>
+                                    <a href="#presentation" class="link-light">Présentation</a>
                                 </li>
                                 <li class="nav-item p-2 mt-2">
                                     <a href="#experiences" class="link-light">Expériences professionnelles</a>
@@ -131,7 +141,7 @@
                                 <li class="nav-item p-2 mt-2">
                                     <a href="#publications" class="link-light">Publications et ressources</a>
                                 </li>
-                            </ul>
+                            </ul>                        
                         </div>
                         <div class="mt-4 pt-5">
                             <small class="text-muted">
