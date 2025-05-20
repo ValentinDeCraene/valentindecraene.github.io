@@ -20,7 +20,8 @@ theme:
   color_mode: auto
 
 nav:
-  - Accueil: index.md
+  - Curriculum Vitae: index.md
+  - Portfolio: portfolio.md
 
 markdown_extensions:
   - toc:
