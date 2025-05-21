@@ -12,7 +12,7 @@ En complétant mon parcours par une admission au sein du master 2 "Technologies 
 
 Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner de multiples projets de recherche sur l'ensemble de leur workflow, depuis la modélisation des données jusqu'à leur dépôt et préservation. Dans le contexte actuel de la science ouverte et de production accrue des données de la recherche, j'ai à cœur d'accompagner les chercheurs et leurs projets vers ces nouveaux horizons, que ce soit par mes activités d'ingénierie de la donnée, de formation et d'enseignement.
 
-## Expériences professionnelles
+## **Expériences professionnelles**
 
 ### Université de Lille, faculté des humanités, département d'Histoire: chargé d'enseignement - vacataire (supplément d'activité)
 **Janvier - Juillet 2025**
@@ -23,7 +23,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 - Licence 3 Histoire : TD "corpus numériques"
     - Technologies du web et Omeka S appliqué à l'Histoire – 24 h (4 x 6 h)
 
-### MESHS – CNRS, Lille, Ingénieur d'études en humanités numériques, chargé du traitement des données scientifiques
+### Maison Européenne des Sciences de l'Homme et de la Société (MESHS) – CNRS, Lille, Ingénieur d'études en humanités numériques, chargé du traitement des données scientifiques
 **Août 2023 – Aujourd’hui**
 
 - Audit technique des projets, définition des besoins et structuration des workflows
@@ -55,7 +55,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 
 - Enseignement en Histoire, Géographie et EMC, en Seconde, Première (technologique) et Terminale (technologique)
 
-## Formation – cursus universitaire
+## **Formation – cursus universitaire**
 
 ### École nationale des Chartes (Paris), Master 2 "[Technologies Numériques Appliquées à l’Histoire](https://www.chartes.psl.eu/sites/default/files/public/media/document/2024-09/maquette-m2-tnah_2024.pdf)"
 **Septembre 2021 – Septembre 2022**
@@ -86,7 +86,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 
 - Spécialité "Chartes B" (Histoire et Géographie)
 
-## Compétences
+## **Compétences**
 
 ### Programmation et traitement des données=
 - Python (dont Pandas, BeautifulSoup, Requests, SpaCy, notions de NLTK)
