@@ -14,10 +14,10 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 **Janvier - Juillet 2025**
 
 - Master 1 Histoire européenne : TD "outils numériques":
-   - Introduction à LaTeX pour la recherche en Histoire – 8 h
-   - Contenu du cours (manuel LaTeX) en accès libre: [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
+    - Introduction à LaTeX pour la recherche en Histoire – 8 h
+    - Contenu du cours (manuel LaTeX) en accès libre: [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
 - Licence 3 Histoire : TD "corpus numériques"
-   - Technologies du web et Omeka S appliqué à l'Histoire – 24 h (4 x 6 h)
+    - Technologies du web et Omeka S appliqué à l'Histoire – 24 h (4 x 6 h)
 
 ### MESHS – CNRS, Lille, Ingénieur d'études en humanités numériques, chargé du traitement des données scientifiques
 **Août 2023 – Aujourd’hui**
