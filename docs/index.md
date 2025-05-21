@@ -11,7 +11,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 ## Expériences professionnelles
 
 ### Université de Lille, faculté des humanités, département d'Histoire: chargé d'enseignement - vacataire (supplément d'activité)
-📅 Janvier - Juillet 2025
+Janvier - Juillet 2025
 - Master 1 Histoire européenne : TD "outils numériques":
    - Introduction à LaTeX pour la recherche en Histoire – 8 h
    - Contenu du cours (manuel LaTeX) en accès libre: [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
@@ -19,7 +19,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
    - Technologies du web et Omeka S appliqué à l'Histoire – 24 h (4 x 6 h)
 
 ### MESHS – CNRS, Lille, Ingénieur d'études en humanités numériques, chargé du traitement des données scientifiques
-📅 Août 2023 – Aujourd’hui
+Août 2023 – Aujourd’hui
 - Audit technique des projets, définition des besoins et structuration des workflows
 - Développement web et applicatif (Python via Flask, JS, XSLT / OmekaS et Typo3)
 - Traitement des données : normalisation et alignement sur des référentiels pérennes
@@ -29,7 +29,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 - Organisation des colloques : \#dhnord2023, \#dhnord2024, \#dhnord2025
 
 ### ANR FermeGé (MESHS - Université de Lille), Ingénieur d'études, chargé du traitement des données scientifiques
-📅 Septembre 2022 – Août 2023
+Septembre 2022 – Août 2023
 - Automatisation d'une chaîne d’encodage en XML-TEI
 - Développement web du Dictionnaire numérique de la Ferme générale
 - Déploiement sur serveur Linux (stack LAMP)
@@ -37,39 +37,39 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 - Alignement sur les principes de la science ouverte
 
 ### MESHS – CNRS, Lille, Stagiaire ingénieur en humanités numériques
-📅 Avril 2022 – Août 2022
+Avril 2022 – Août 2022
 - Schématisation d’un schéma ODD
 - Encodage automatisé en XML/TEI (Python via ElementTree)
 - Prototype d'application web (Flask + SQLAlchemy)
 
 ### Lycée André Malraux (Béthune), Professeur agrégé d’Histoire
-📅 Septembre 2021 – Août 2021
+Septembre 2021 – Août 2021
 - Enseignement en Histoire, Géographie et EMC, en Seconde, Première (technologique) et Terminale (technologique)
 
 ## Formation – cursus universitaire
 
 ### École nationale des Chartes (Paris), Master 2 "[Technologies Numériques Appliquées à l’Histoire](https://www.chartes.psl.eu/sites/default/files/public/media/document/2024-09/maquette-m2-tnah_2024.pdf)"
-📅 Septembre 2021 – Septembre 2022
+Septembre 2021 – Septembre 2022
 - Mémoire : "Le Dictionnaire numérique de la Ferme générale (1664–1794) : du traitement à la mise en valeur des données nativement numériques"
 - Mention : Très Bien
 
 ### Université de Lille, Préparation à l’agrégation externe d’Histoire
-📅 Septembre 2019 – Septembre 2020
+Septembre 2019 – Septembre 2020
 - Reçu 69e à l’agrégation externe
 - Reçu 103e au CAPES
 
 ### Université de Lille, Master recherche en histoire "Métier d’historien"
-📅 Septembre 2017 – Septembre 2019
+Septembre 2017 – Septembre 2019
 - M1 : "Violences et criminalités dans le bailliage de Lille au XVe siècle (1429–1441)"
 - M2 : "Dénoncer pour le Bien Commun ? Les franches vérités dans le comté de Flandres (XIVe–XVe siècles)"
 - Mention : Très Bien
 
 ### Université de Lille, Licence 3 d'Histoire
-📅 Septembre 2016 – Septembre 2017
+Septembre 2016 – Septembre 2017
 - Mention : Bien
 
 ### Lycée Faidherbe (Lille), Classe Préparatoire aux Grandes Écoles littéraire (A/L)
-📅 Septembre 2014 – Septembre 2016
+Septembre 2014 – Septembre 2016
 - Spécialité "Chartes B" (Histoire et Géographie)
 
 ## Compétences
