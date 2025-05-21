@@ -22,6 +22,7 @@ theme:
 nav:
   - Curriculum Vitae: index.md
   - Portfolio: portfolio.md
+  - Publications: publications.md
 
 markdown_extensions:
   - toc:
@@ -30,7 +31,7 @@ markdown_extensions:
   - admonition
   - tables
 
-repo_url: https://valentindecraene.github.io
+repo_url: https://github.com/ValentinDeCraene/valentindecraene.github.io
 repo_name: GitHub
 
 extra:
