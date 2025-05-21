@@ -12,7 +12,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 
 ### Université de Lille, faculté des humanités, département d'Histoire: chargé d'enseignement - vacataire (supplément d'activité)
 📅 Janvier - Juillet 2025
-- Master 1 Histoire européenne : TD "outils numériques"
+- Master 1 Histoire européenne : TD "outils numériques":
    - Introduction à LaTeX pour la recherche en Histoire – 8 h
    - Contenu du cours (manuel LaTeX) en accès libre: [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
 - Licence 3 Histoire : TD "corpus numériques"
