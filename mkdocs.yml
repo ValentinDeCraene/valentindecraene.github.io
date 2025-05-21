@@ -36,12 +36,14 @@ repo_name: GitHub
 extra:
   social:
     - icon: fontawesome/brands/gitlab
-      link: https://gitlab.univ-lille.fr/valentin.de-craene/cycle_hn_meshs_2025
+      link: https://gitlab.huma-num.fr/vdecraene
+    - icon: fontawesome/brands/github
+      link: https://github.com/ValentinDeCraene
     - icon: material/web
       link: https://valentindecraene.github.io/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/valentin-de-craene-189765221/
     - icon: material/email
       link: mailto:valentin.de-craene@univ-lille.fr
-  copyright:
-    text: "Valentin de Craene"
+      
+copyright: Valentin de Craene - 2025
