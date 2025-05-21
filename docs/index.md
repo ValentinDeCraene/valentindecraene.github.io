@@ -12,6 +12,8 @@ En complétant mon parcours par une admission au sein du master 2 "Technologies 
 
 Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner de multiples projets de recherche sur l'ensemble de leur workflow, depuis la modélisation des données jusqu'à leur dépôt et préservation. Dans le contexte actuel de la science ouverte et de production accrue des données de la recherche, j'ai à cœur d'accompagner les chercheurs et leurs projets vers ces nouveaux horizons, que ce soit par mes activités d'ingénierie de la donnée, de formation et d'enseignement.
 
+---
+
 ## **Expériences professionnelles**
 
 ### Université de Lille, faculté des humanités, département d'Histoire: chargé d'enseignement - vacataire (supplément d'activité)
@@ -55,6 +57,8 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 
 - Enseignement en Histoire, Géographie et EMC, en Seconde, Première (technologique) et Terminale (technologique)
 
+---
+
 ## **Formation – cursus universitaire**
 
 ### École nationale des Chartes (Paris), Master 2 "[Technologies Numériques Appliquées à l’Histoire](https://www.chartes.psl.eu/sites/default/files/public/media/document/2024-09/maquette-m2-tnah_2024.pdf)"
@@ -85,6 +89,8 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 **Septembre 2014 – Septembre 2016**
 
 - Spécialité "Chartes B" (Histoire et Géographie)
+
+---
 
 ## **Compétences**
 
@@ -120,5 +126,3 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
     - Référent régional de l’IR\* Huma-Num
     - Membre du groupe de réflexion sur la pérennité d'Heurist (IR\* Huma-Num)
     - Membre du réseau de modération de l'entrepôt de données Nakala
-
-## Publications et ressources (à venir)
