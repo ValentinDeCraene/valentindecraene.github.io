@@ -1,7 +1,8 @@
 # Valentin de Craene, curriculum vitae
 
 !!! note
-    ORCID: [https://orcid.org/0000-0002-6019-2572](https://orcid.org/0000-0002-6019-2572) | ID-HAL: [valentin-de-craene ](https://cv.hal.science/valentin-de-craene) 
+    - ORCID: [https://orcid.org/0000-0002-6019-2572](https://orcid.org/0000-0002-6019-2572)
+    - ID-HAL: [valentin-de-craene ](https://cv.hal.science/valentin-de-craene) 
 
 Actuellement ingénieur d'études contractuel en humanités numériques au sein de la MESHS (CNRS), je suis spécialisé dans le traitement des données en SHS et le développement web.
 
