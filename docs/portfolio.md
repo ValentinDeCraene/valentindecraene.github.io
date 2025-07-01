@@ -50,8 +50,17 @@
 * Rôle(s): co-animateur ; formateur (Markdown et Gitlab Pages)
 * Livrables: en cours de réalisation (fiches pratiques encodées en Markdown et transformées en HTML via CI/CD de Gitlab)
 
+#### Correspondant de l'IR* Huma-Num | sept. 2023 - en cours
+* Animation du réseau régional des utilisateurs des services d'Huma-Num ; modérateur des dépôts sur l'entrepôt Nakala (modération documentaire) ; membre du groupe de réflexion sur la pérennité d'Heurist
+* Rôle(s): animateur ; formateur
+* Livrables: dépôt en masse de données de qualité sur Nakala (ex d'un corpus de thèse: [https://nakala.fr/collection/10.34847/nkl.ee79769r](https://nakala.fr/collection/10.34847/nkl.ee79769r)) ; interventions et formations dans divers laboratoires
 ---
 
 ## Projets personnels
 
-En cours de mise à jour
+[En cours de mise à jour]
+
+* Développement d'un micro jeu vidéo en Python "PySurvivor" (framework Pygames), type RPG, Zelda-like. Objectif: découverte d'un nouveau framework ; montée en compétence en programmation orientée objet.
+* Rôle(s): développeur
+* Livrable: repository Github (code Python) : [https://github.com/ValentinDeCraene/pySurvivor](https://github.com/ValentinDeCraene/pySurvivor)
+
