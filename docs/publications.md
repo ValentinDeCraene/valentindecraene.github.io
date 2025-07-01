@@ -30,7 +30,12 @@
   *Regards d'historiens du droit sur la Ferme générale*, sept. 2023, Amiens, France  
   [Notice HAL](https://hal.science/hal-04270422)
 
-## Cours
+## Cours et formations
+
+- **Cycle de formation en Humanités Numériques 2025 - MESHS**  
+  *Valentin De Craene*
+  Université de Lille - CNRS, France, 2025 
+  [Lien vers la documentation du cycle](https://https://gitlabpages.univ-lille.fr/valentin.de-craene/cycle_hn_meshs_2025)
 
 - **Introduction par la pratique à LaTeX pour les sciences historiques. Manuel de formation à destination des chercheurs et étudiants**  
   *Valentin De Craene, Valentin Mériaux*  
