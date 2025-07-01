@@ -10,13 +10,13 @@
 * Technologies: Python (dont Beautiful Soup et Spacy) ; Flask (dont SQL-Alchemy) ; XML-TEI (dont schématisation ODD) ; serveurs Ubuntu (stacK Linux, Apache, MySQL, PHP)
 * Lien(s): [https://fermege.meshs.fr](https://fermege.meshs.fr) ; Gitlab: [https://gitlab.huma-num.fr/vdecraene/DicoNumFermeGe](https://gitlab.huma-num.fr/vdecraene/DicoNumFermeGe)
 
-#### Projet émergent PERARTEM (MESHS) | sept. 2023 - sept. 2024
+#### Projet émergent PERARTEM (Maison Européenne des Sciences de l'Homme et de la Société - MESHS) | sept. 2023 - sept. 2024
 * Chaîne d'enrichissement et ouverture des données du projet portant sur la presse est-allemande dans les années 1970: alignement sur les référentiels de la BnF et DNB ; modélisation d'une base de données relationnelle
 * Rôle(s): conseils (gestion et ouverture des données) ; formateur (modélisation relationnelle) ; développeur (chaîne d'enrichissement des données)
 * Technologies: Python (dont Request) ; Heurist (SGBDR maintenu en France par l'IR* Huma-Num)
 * Lien(s): Gitlab (chaîne d'enrichissement des données) : [https://gitlab.huma-num.fr/vdecraene/meshs_perartem](https://gitlab.huma-num.fr/vdecraene/meshs_perartem) ; base de données Heurist: [https://heurist.huma-num.fr/heurist/?db=perartem_sonntag](https://heurist.huma-num.fr/heurist/?db=perartem_sonntag) ; dépôt des données : [https://nakala.fr/10.34847/nkl.1f1ck0j6](https://nakala.fr/10.34847/nkl.1f1ck0j6)
 
-#### Project émergent ImaginIRL (MESHS | sept. 2024 - en cours
+#### Project émergent ImaginIRL (MESHS) | sept. 2024 - en cours
 * Modélisation d'une base de données relationnelle ; développement d'un site Omeka-S d'exposition et valorisation des données iconographiques. Sujet: réception dans la presse francophone de l'Indépendance irlandaise (1913-1923)
 * Rôle(s): conseils (gestion et ouverture des données) ; formateur (modélisation relationnelle) ; administrateur web (déploiement application Omeka-S et administration)
 * Technologie(s): Heurist (SGBDR maintenu en France par l'IR* Huma-Num) ; Omeka-S (dont plug-in Mapping)
@@ -26,12 +26,12 @@
 
 ### Audit et conseils en gouvernance des données 
 
-#### Cellule "Administration des Données, des Algorithmes et des Codes" de l'université de Lille | sept. 2022 - en cours
+#### Cellule Administration des Données, des Algorithmes et des Codes (ADAC) de l'université de Lille | sept. 2022 - en cours
 * Cellule de réflexion et concertation en vue de la définition de la feuille de route pour l'ouverture et l'administation des données, codes et algorithmes au sein de l'université de Lille.
 * Rôle(s): membre de la cellule (expert domaine SHS)
 * Livrables: feuille de route de l'université ; ensemble de recommendations pratiques (arbres de décisions pour la gestion des données ; modèles de PGD,...)
 
-#### Groupe de travail "Infrastructure numérique" de la MESHS | janvier 2024 - en cours
+#### Groupe de travail Infrastructure Numérique de la MESHS | janvier 2024 - en cours
 * Audit de l'infrastructure numérique de la MESHS et de son système d'information: enquêtes internes sur les usages numériques, sur la production de données et les outils utilisés ; productions d'un ensemble de recommendations auprès de la direction ; transition de l'infrastructure numérique vers l'université de Lille : réalisation d'un nouveau site web, redéploiement des outils, bascule du système d'information vers des solutions open source
 * Rôle(s): co-animateur du groupe de travail ; chef de projet sur le volet données
 * Livrables: nouveau système d'information interne (bascule sur Heurist) ; nouveau site web (en cours de déploiement) via Typo3: [https://www.meshs.fr/page/accueil](https://www.meshs.fr/page/accueil) ; documentation interne (Gitlab pages)
@@ -50,17 +50,31 @@
 * Rôle(s): co-animateur ; formateur (Markdown et Gitlab Pages)
 * Livrables: en cours de réalisation (fiches pratiques encodées en Markdown et transformées en HTML via CI/CD de Gitlab)
 
-#### Correspondant de l'IR* Huma-Num | sept. 2023 - en cours
+#### Correspondant de l'Infrastructure de Recherche* Huma-Num | sept. 2023 - en cours
 * Animation du réseau régional des utilisateurs des services d'Huma-Num ; modérateur des dépôts sur l'entrepôt Nakala (modération documentaire) ; membre du groupe de réflexion sur la pérennité d'Heurist
 * Rôle(s): animateur ; formateur
 * Livrables: dépôt en masse de données de qualité sur Nakala (ex d'un corpus de thèse: [https://nakala.fr/collection/10.34847/nkl.ee79769r](https://nakala.fr/collection/10.34847/nkl.ee79769r)) ; interventions et formations dans divers laboratoires
+
 ---
 
 ## Projets personnels
 
 [En cours de mise à jour]
 
+### Développement et montée en compétence
+
+#### PySurvivor | 2024
 * Développement d'un micro jeu vidéo en Python "PySurvivor" (framework Pygames), type RPG, Zelda-like. Objectif: découverte d'un nouveau framework ; montée en compétence en programmation orientée objet.
 * Rôle(s): développeur
 * Livrable: repository Github (code Python) : [https://github.com/ValentinDeCraene/pySurvivor](https://github.com/ValentinDeCraene/pySurvivor)
+
+### Enseignement (en supplément d'activité)
+
+#### Enseignant vacataire, université de Lille, faculté des Humanités, département Histoire | janvier - juin 2025
+* Chargé de travaux dirigés:
+    * Licence 3 Histoire: gestion de corpus numériques (formation à la description des données patrimoniales en Dublin et à l'utilisation d'Omeka-S), 4 x 6 H
+    * Master 1 Histoire européenne: formation à LaTeX pour la rédaction scientifique (bases de LaTeX pour la rédaction d'un mémoire, bonnes pratiques de gestion des données et         de projets
+* Rôle(s): enseignant
+* Livrable: manuel du cours de master 1 : [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
+
 
