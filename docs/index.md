@@ -2,7 +2,8 @@
 
 !!! note
     - ORCID: [https://orcid.org/0000-0002-6019-2572](https://orcid.org/0000-0002-6019-2572)
-    - ID-HAL: [valentin-de-craene ](https://cv.hal.science/valentin-de-craene) 
+    - ID-HAL: [valentin-de-craene ](https://cv.hal.science/valentin-de-craene)
+    - Ce site est développé via des technologies low-tech et open source: Markdown transformé en HTML via le framework Python MkDocs ; thème Material. Pour une question de visibilité, l'hébergement sur Github a été préféré à une instance Gitlab.
 
 Actuellement ingénieur d'études contractuel en humanités numériques au sein de la MESHS (CNRS), je suis spécialisé dans le traitement des données en SHS et le développement web.
 
