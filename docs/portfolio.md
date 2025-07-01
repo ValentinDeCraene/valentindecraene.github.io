@@ -73,7 +73,7 @@
 #### Enseignant vacataire, université de Lille, faculté des Humanités, département Histoire | janvier - juin 2025
 * Chargé de travaux dirigés:
     * Licence 3 Histoire: gestion de corpus numériques (formation à la description des données patrimoniales en Dublin et à l'utilisation d'Omeka-S), 4 x 6 H
-    * Master 1 Histoire européenne: formation à LaTeX pour la rédaction scientifique (bases de LaTeX pour la rédaction d'un mémoire, bonnes pratiques de gestion des données et         de projets
+    * Master 1 Histoire européenne: formation à LaTeX pour la rédaction scientifique (bases de LaTeX pour la rédaction d'un mémoire, bonnes pratiques de gestion des données et         de projets 4 x 2 H
 * Rôle(s): enseignant
 * Livrable: manuel du cours de master 1 : [https://hal.science/hal-05059653](https://hal.science/hal-05059653)
 
