@@ -10,21 +10,19 @@
 * Technologies: Python (dont Beautiful Soup et Spacy) ; Flask (dont SQL-Alchemy) ; XML-TEI (dont schématisation ODD) ; serveurs Ubuntu (stacK Linux, Apache, MySQL, PHP)
 * Lien(s): [https://fermege.meshs.fr](https://fermege.meshs.fr) ; Gitlab: [https://gitlab.huma-num.fr/vdecraene/DicoNumFermeGe](https://gitlab.huma-num.fr/vdecraene/DicoNumFermeGe)
 
----
-
 #### Projet émergent PERARTEM (MESHS) | sept. 2023 - sept. 2024
 * Chaîne d'enrichissement et ouverture des données du projet portant sur la presse est-allemande dans les années 1970: alignement sur les référentiels de la BnF et DNB ; modélisation d'une base de données relationnelle
 * Rôle(s): conseils (gestion et ouverture des données) ; formateur (modélisation relationnelle) ; développeur (chaîne d'enrichissement des données)
 * Technologies: Python (dont Request) ; Heurist (SGBDR maintenu en France par l'IR* Huma-Num)
 * Lien(s): Gitlab (chaîne d'enrichissement des données) : [https://gitlab.huma-num.fr/vdecraene/meshs_perartem](https://gitlab.huma-num.fr/vdecraene/meshs_perartem) ; base de données Heurist: [https://heurist.huma-num.fr/heurist/?db=perartem_sonntag](https://heurist.huma-num.fr/heurist/?db=perartem_sonntag) ; dépôt des données : [https://nakala.fr/10.34847/nkl.1f1ck0j6](https://nakala.fr/10.34847/nkl.1f1ck0j6)
 
----
-
 #### Project émergent ImaginIRL (MESHS | sept. 2024 - en cours
 * Modélisation d'une base de données relationnelle ; développement d'un site Omeka-S d'exposition et valorisation des données iconographiques. Sujet: réception dans la presse francophone de l'Indépendance irlandaise (1913-1923)
 * Rôle(s): conseils (gestion et ouverture des données) ; formateur (modélisation relationnelle) ; administrateur web (déploiement application Omeka-S et administration)
 * Technologie(s): Heurist (SGBDR maintenu en France par l'IR* Huma-Num) ; Omeka-S (dont plug-in Mapping)
 * Lien(s): base Heurist (accès en lecture sur demande) : [https://heurist.huma-num.fr/heurist/?db=ImaginIRL_database&w=a&q=sortby%3A-m](https://heurist.huma-num.fr/heurist/?db=ImaginIRL_database&w=a&q=sortby%3A-m) ; site web Omeka-S (en cours de finalisation): [https://meshs-omekas.univ-lille.fr/omeka-s/s/imaginirl/page/test-homepage](https://meshs-omekas.univ-lille.fr/omeka-s/s/imaginirl/page/test-homepage)
+
+---
 
 ### Audit et conseils en gouvernance des données 
 
@@ -33,12 +31,12 @@
 * Rôle(s): membre de la cellule (expert domaine SHS)
 * Livrables: feuille de route de l'université ; ensemble de recommendations pratiques (arbres de décisions pour la gestion des données ; modèles de PGD,...)
 
----
-
 #### Groupe de travail "Infrastructure numérique" de la MESHS | janvier 2024 - en cours
 * Audit de l'infrastructure numérique de la MESHS et de son système d'information: enquêtes internes sur les usages numériques, sur la production de données et les outils utilisés ; productions d'un ensemble de recommendations auprès de la direction ; transition de l'infrastructure numérique vers l'université de Lille : réalisation d'un nouveau site web, redéploiement des outils, bascule du système d'information vers des solutions open source
 * Rôle(s): co-animateur du groupe de travail ; chef de projet sur le volet données
 * Livrables: nouveau système d'information interne (bascule sur Heurist) ; nouveau site web (en cours de déploiement) via Typo3: [https://www.meshs.fr/page/accueil](https://www.meshs.fr/page/accueil) ; documentation interne (Gitlab pages)
+
+---
 
 ### Animation des réseaux professionnels ou scientifique et organisation d'événements
 
