@@ -62,7 +62,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 
 ## **Formation – cursus universitaire**
 
-### École nationale des Chartes (Paris), Master 2 "[Technologies Numériques Appliquées à l’Histoire](https://www.chartes.psl.eu/sites/default/files/public/media/document/2024-09/maquette-m2-tnah_2024.pdf)"
+### École nationale des chartes (Paris), Master 2 "[Technologies Numériques Appliquées à l’Histoire](https://www.chartes.psl.eu/sites/default/files/public/media/document/2024-09/maquette-m2-tnah_2024.pdf)"
 **Septembre 2021 – Septembre 2022**
 
 - Mémoire : "Le Dictionnaire numérique de la Ferme générale (1664–1794) : du traitement à la mise en valeur des données nativement numériques"
@@ -89,7 +89,7 @@ Au cours de mes expériences professionnelles, j'ai eu l'occasion d'accompagner 
 ### Lycée Faidherbe (Lille), Classe Préparatoire aux Grandes Écoles littéraire (A/L)
 **Septembre 2014 – Septembre 2016**
 
-- Spécialité "Chartes B" (Histoire et Géographie)
+- Spécialité "chartes B" (Histoire et Géographie)
 
 ---
 
